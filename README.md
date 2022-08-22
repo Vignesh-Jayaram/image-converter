@@ -1,1 +1,1 @@
-# image-converter
+Basic JPEG to PNG converter 
